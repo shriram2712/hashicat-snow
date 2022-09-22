@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_898101_hashica_0.user" name="x_898101_hashica_0.user">2a427c162f02511047445aab2799b67c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-22 05:25:50</sys_created_on>
+        <sys_id>a6427c162f02511047445aab2799b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2a427c162f02511047445aab2799b67c</sys_name>
+        <sys_package display_value="hashicat-snow" source="x_898101_hashica_0">96423c162f02511047445aab2799b6df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hashicat-snow">96423c162f02511047445aab2799b6df</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a6427c162f02511047445aab2799b67d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-22 05:25:50</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
